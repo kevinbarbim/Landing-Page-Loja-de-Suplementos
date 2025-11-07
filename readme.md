@@ -6,7 +6,7 @@ Projeto extracurricular do 1º semestre da Fatec Rio Preto, focado na criação 
 ---
 
 # 🚀 Tecnologias Utilizadas
-##🎨 Front-end
+🎨 Front-end
 
 HTML5
 
